@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yourshining1
 - 👀 I’m interested in Web Development/Web & App Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working through The Odin Project
 - 💞️ I’m looking to collaborate on Unsure I'm just starting out
 - 📫 How to reach me alittlebitmeh@gmail.com
 
